@@ -1,0 +1,30 @@
+_repo: An-Amicable-Controversy-with-a-Jewish-Rabbi-on-The-Messiah-s-Coming_34201
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Park, John Ranicar
+    alias: Park, J. R. (John Ranicar)
+    birthdate: 1778
+    deathdate: 1847
+    gutenberg_agent_id: '36864'
+    url: http://www.gutenberg.org/2009/agents/36864
+description: ''
+gutenberg_issued: '2010-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Messiah -- Prophecies'
+- !lcc 'BS'
+- !lcsh 'Millennium (Eschatology)'
+- !lcsh 'Bible. Zechariah -- Commentaries'
+title: "An Amicable Controversy with a Jewish Rabbi, on The Messiah's Coming\r\nWith\
+  \ an Entirely New Exposition of Zechariah, on the Messiah's Kingdom"
+url: http://www.gutenberg.org/ebooks/34201
